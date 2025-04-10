@@ -1,6 +1,0 @@
-Listado de rutas de carpetas para el volumen WIN10
-El n£mero de serie del volumen es 000000B3 DEC2:8FE4
-C:\RUTA\DE\LA\CARPETA
-Ruta de acceso no v lida: \RUTA\DE\LA\CARPETA
-No existe ninguna subcarpeta 
-
